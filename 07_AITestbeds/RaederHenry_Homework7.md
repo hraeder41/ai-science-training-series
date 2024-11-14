@@ -1,3 +1,5 @@
+## MNIST Training on Graphcore
+
 ### Default Parameters:
 ```
 TrainingModelWithLoss(
